@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Road Rage
-- Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/roadrage/v8/6NUU8F2fKAOBKjjr4ekvtMYAwdRZfw.ttf
-- Font License: undefined)
